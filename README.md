@@ -1,6 +1,6 @@
 
+###It's a clock for JavaScript
 
 
 
-
-![###It's a clock for JavaScript ](img.PNG "clock")
+![ Clock](img.PNG "clock")
