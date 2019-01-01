@@ -1,6 +1,6 @@
-###It's a clock for JavaScript     
 
 
 
 
-![alt text](img.PNG "clock")
+
+![###It's a clock for JavaScript ](img.PNG "clock")
