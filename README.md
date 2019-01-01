@@ -3,4 +3,4 @@
 
 
 
-![ Clock](img.PNG "clock")
+![ Clock](clock.PNG)
